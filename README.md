@@ -39,3 +39,7 @@ Additional Information
 ======================
 * [Wiki](https://github.com/rapid7/hackazon/wiki)
 * CyberSecology Blog: [Hackazon Test Site Review](http://cybersecology.com/hackazon-review/)
+<a href="https://scan.coverity.com/projects/test1bamboo">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/16582/badge.svg"/>
+</a>
